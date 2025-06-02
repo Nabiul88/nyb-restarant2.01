@@ -1,11 +1,11 @@
 # 🚀 A food delivery full stack website(Final Defance). - React.Js Project
 
-A food delivery full stack website.
 
 ## 📦 Tech Stack
 
 - **React**
 - **Tailwind CSS**
+- **TS**
 - **Stripe Payment**
 - **Zod** (for form validation)
 
@@ -42,17 +42,6 @@ pnpm dev
 
 App will be live at: [http://localhost:5173](http://localhost:5173)
 
-## 🧪 Testing (if setup)
-
-```bash
-npm run test
-```
-
-## 📦 Build for Production
-
-```bash
-npm run build
-```
 
 Then start:
 
